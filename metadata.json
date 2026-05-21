@@ -1,0 +1,6 @@
+{
+  "name": "FamilyNest",
+  "description": "A collaborative organizer tracking chores, meal schedules, vacations, and budgets with gamification, notifications, and AI recipe extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
